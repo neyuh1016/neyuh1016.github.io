@@ -1,0 +1,37 @@
+
+header {
+    position: fixed;
+    z-index: 100;
+    width: 100%;
+    background-color: white;
+}
+
+header .content {
+    display: flex;
+    align-items: center;
+    padding: 1.875rem;
+}
+  
+header .logo {
+    flex: 1;
+}
+  
+header nav ul {
+    display: flex;
+}
+  
+nav li {
+    padding-left: 16px;
+}
+  
+nav a {
+    vertical-align: bottom;
+    line-height: 1.6;
+    font-size: 1rem;
+    color: black;
+}
+  
+header .icon {
+    width: 1rem;
+    padding-left: 24px;
+}
