@@ -333,7 +333,7 @@ header {
     .sectionThreeInfo h2 {
         width: 100%;
         margin: 0;
-        padding: 16px 16px 24px 16px;
+        padding: 16px 0px 24px 16px;
     }
 }
 
@@ -357,7 +357,6 @@ header {
 
 .sectionFourColumnOne video {
     width: 100%;
-    border: 2px solid rgb(204, 204, 204);;
 }
 
 .sectionFourColumnOneInfo h2 {
